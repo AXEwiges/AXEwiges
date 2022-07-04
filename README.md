@@ -15,4 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
+
+```text
+Java         11 hrs 28 mins  ██████████████████░░░░░░░   71.50 %
+Python       3 hrs 2 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.93 %
+YAML         38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+Rust         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+Groovy       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+Gradle       6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+```
+
 <!--END_SECTION:waka-->
