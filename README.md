@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Java             12 hrs 41 mins  ██████████░░░░░░░░░░░░░░░   40.16 %
-Python           8 hrs 1 min     ██████▒░░░░░░░░░░░░░░░░░░   25.37 %
-Kotlin           5 hrs 42 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.05 %
-Docker           2 hrs 16 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
-Text             51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
-YAML             43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+Java             10 hrs 44 mins  █████████▒░░░░░░░░░░░░░░░   36.83 %
+Python           8 hrs 1 min     ███████░░░░░░░░░░░░░░░░░░   27.50 %
+Kotlin           5 hrs 42 mins   █████░░░░░░░░░░░░░░░░░░░░   19.57 %
+Docker           2 hrs 16 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
+Text             51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+Manifest         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 ```
 
 <!--END_SECTION:waka-->
