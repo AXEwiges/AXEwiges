@@ -17,12 +17,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python       7 hrs 29 mins   ███████████░░░░░░░░░░░░░░   44.50 %
-Java         3 hrs 3 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.21 %
-Docker       2 hrs 16 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 %
-Kotlin       1 hr 30 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 %
-Go           1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
-Text         49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+Python       6 hrs 39 mins   ████████████▓░░░░░░░░░░░░   50.07 %
+Java         2 hrs 52 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.57 %
+Other        1 hr 28 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 %
 ```
 
 <!--END_SECTION:waka-->
