@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 ```text
 Python       6 hrs 39 mins   ████████████▓░░░░░░░░░░░░   50.07 %
 Java         2 hrs 52 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.57 %
-Other        1 hr 28 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 %
+SQL          1 hr 28 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.14 %
+Go           1 hr 12 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.07 %
+Text         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+Docker       20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
 ```
 
 <!--END_SECTION:waka-->
