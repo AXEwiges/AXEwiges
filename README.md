@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="HTML5" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"/>
 <img align="left" alt="HTML5" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"/>
+<br />
 
 ### This period
 <!--START_SECTION:waka-->
