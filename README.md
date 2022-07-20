@@ -52,4 +52,42 @@ Here are some ideas to get you started:
 ## This week
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-450%20Thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 222 Contributions in the Year 2022
+ > 
+> 📦 153.0 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 11 Public Repositories 
+ > 
+> 🔑 32 Private Repositories  
+ > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🔥 Editors: 
+VS Code                  12 hrs 51 mins      ██████████████████░░░░░░░   75.03% 
+IntelliJ                 3 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   19.81% 
+GoLand                   52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.15%
+
+🐱‍💻 Projects: 
+martingale-v2            8 hrs 49 mins       ████████████░░░░░░░░░░░░░   51.45% 
+hello-rocket             3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   17.68% 
+mtg                      2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.72% 
+martingo                 52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.12% 
+Kaggle                   32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.16%
+
+💻 Operating System: 
+Windows                  14 hrs 8 mins       ████████████████████░░░░░   82.46% 
+WSL                      3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   17.54%
+
+```
+
+
 <!--END_SECTION:waka-->
