@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <img align="left" alt="HTML5" height="32" width="32" style="margin:2px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img align="left" alt="HTML5" height="32" width="32" style="margin:2px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>
 <img align="left" alt="HTML5" height="32" width="32" style="margin:2px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"/>
-<img align="left" alt="HTML5" height="32" width="70" style="margin:2px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png"/>
+<img align="left" alt="HTML5" height="30" width="60" style="margin:2px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png"/>
 <img align="left" alt="HTML5" height="32" width="32" style="margin:2px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"/>
 <img align="left" alt="HTML5" height="32" width="32" style="margin:2px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png"/>
 <br />
