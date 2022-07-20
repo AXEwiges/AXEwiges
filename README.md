@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img align="left" alt="C++" height="32" width="32" style="margin:2px;"  src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"/>
 <img align="left" alt="C#" height="32" width="32" style="margin:2px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/>
 <img align="left" alt="Python" height="38" width="38" style="margin:2px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-<img align="left" alt="Bash" height="38" width="38" style="margin:2px;"  src="https://e7.pngegg.com/pngimages/39/202/png-clipart-bash-shell-command-line-interface-ls-shell-rectangle-logo-thumbnail.png"/>
+<img align="left" alt="Bash" height="38" width="38" style="margin:2px;"  src="https://www.pngfind.com/pngs/m/261-2614514_bash-logo-shell-script-logo-png-transparent-png.png"/>
 <img align="left" alt="Java" height="38" width="38" style="margin:2px;"  src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"/>
 <img align="left" alt="Kotlin" height="32" width="32" style="margin:2px;"  src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png"/>
 <img align="left" alt="JS" height="32" width="32" style="margin:2px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
