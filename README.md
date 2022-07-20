@@ -1,3 +1,5 @@
+[![ye.jpg](https://i.postimg.cc/qMJ4T6Xc/ye.jpg)](https://postimg.cc/8s0qd5Ys)
+
 <!--
 **AXEwiges/AXEwiges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
