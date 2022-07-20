@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 <br />
 
 ## Tools
-<img align="left" alt="tf" height="32" width="32" style="margin:2px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"/>
-<img align="left" alt="MongoDB" height="32" width="32" style="margin:2px;"  src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"/>
+<img align="left" alt="tf" height="36" width="36" style="margin:2px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"/>
+<img align="left" alt="MongoDB" height="38" width="38" style="margin:2px;"  src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"/>
 <img align="left" alt="PostgreSQL" height="32" width="32" style="margin:2px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/>
 <img align="left" alt="RabbitMQ" height="32" width="32" style="margin:2px;"  src="https://store-images.s-microsoft.com/image/apps.15844.15e577f6-b965-4785-901c-21cf85aa310a.cfc98497-ef36-4848-8d2c-73d84c33e671.16346933-d54c-4714-b406-61eb0d20857d"/>
 <img align="left" alt="Redis" height="32" width="32" style="margin:2px;"  src="https://dashboard.snapcraft.io/site_media/appmedia/2020/08/1529926.png"/>
