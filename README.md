@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Languages
 
+
 <img align="left" alt="C" height="35" width="35" style="margin:2px;"  src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"/>
 <img align="left" alt="C++" height="32" width="32" style="margin:2px;"  src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"/>
 <img align="left" alt="C#" height="32" width="32" style="margin:2px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/>
@@ -34,6 +35,8 @@ Here are some ideas to get you started:
 <br />
 
 ## Tools
+
+
 <img align="left" alt="tf" height="40" width="40" style="margin:2px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"/>
 <img align="left" alt="torch" height="40" width="40" style="margin:2px;"  src="https://pytorch.org/tutorials/_static/img/thumbnails/cropped/60-min-blitz.png"/>
 <img align="left" alt="MongoDB" height="38" width="38" style="margin:2px;"  src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"/>
