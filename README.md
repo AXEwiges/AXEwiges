@@ -1,5 +1,5 @@
 [![ye.jpg](https://i.postimg.cc/qMJ4T6Xc/ye.jpg)](https://postimg.cc/8s0qd5Ys)
-
+#### I am an EngD from Zhejiang University.
 <!--
 **AXEwiges/AXEwiges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Research Interest Now
+
+* AutoML
+* AI infrastructure and MLOps
+* CV, RL, NLP, GNN and any other field
+
 ## Languages
 
 
