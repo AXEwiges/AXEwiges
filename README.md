@@ -93,18 +93,16 @@ Sunday       35 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     0 secs              ████████████░░░░░░░░░░░░░   50.3% 
-Python                   0 secs              ██████████░░░░░░░░░░░░░░░   41.83% 
-Other                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   7.87%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 13/11/2022 16:19:56 UTC
+ Last Updated on 13/11/2022 17:15:47 UTC
 <!--END_SECTION:waka-->
