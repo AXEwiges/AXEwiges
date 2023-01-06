@@ -93,18 +93,16 @@ Sunday       12 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     8 mins              ████████████████░░░░░░░░░   66.98% 
-Python                   3 mins              ████████░░░░░░░░░░░░░░░░░   32.4% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.61%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  12 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  12 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 06/01/2023 16:18:27 UTC
+ Last Updated on 06/01/2023 17:13:15 UTC
 <!--END_SECTION:waka-->
